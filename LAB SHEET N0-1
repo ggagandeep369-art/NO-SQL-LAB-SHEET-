@@ -1,0 +1,28 @@
+Introduction to MongoDB
+Aim:
+
+To understand the fundamentals of MongoDB and perform basic database operations using MongoDB commands.
+
+Programs:
+
+Q1. Install MongoDB and MongoDB Compass and configure the database environment.
+
+Q2. Create a database named StudentDB and a collection named Students.
+
+Q3. Insert at least five student documents into the Students collection.
+
+Q4. Display all documents using the find() command.
+
+Q5. Retrieve students belonging to a particular course.
+
+Q6. Update the details of an existing student using updateOne().
+
+Q7. Delete a student record using deleteOne().
+
+Q8. Demonstrate MongoDB query operators such as $gt, $lt, $gte, $in and $and.
+
+Q9. Perform sorting, limiting and skipping operations on student records.
+
+Q10. Use aggregation to calculate the average marks of students in different courses.
+
+
