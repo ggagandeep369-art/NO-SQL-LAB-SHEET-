@@ -1,0 +1,58 @@
+# LAB SHEET – 3
+
+## MongoDB Application Design
+
+### AIM:
+
+To design and implement real-world applications using MongoDB, document modelling, CRUD operations and aggregation.
+
+### PROGRAMS:
+
+**Q1. Student Activity Tracking System**
+Create a MongoDB collection to store student details, courses, attendance, skills and recent activities. Insert sample records and perform queries to find students based on their activities.
+
+**Q2. Event Logging System**
+Create an event logging system to store login, logout, failed-login, file-upload and password-change events. Find repeated failed login attempts and calculate event frequencies.
+
+**Q3. Mini Blogging Platform**
+Create a blogging platform using MongoDB. Store author, category, tags, comments and publication details. Perform queries to find blogs by tag and category.
+
+**Q4. Flexible Product Catalog**
+Create a product catalog for laptops, mobiles and cameras. Store different attributes for each category and perform category-specific searches.
+
+**Q5. E-Commerce Order Management**
+Create collections for customers, products and orders. Store purchase details and retrieve customer purchase history and total order amounts.
+
+**Q6. Website Analytics System**
+Store page visits, user details, devices, browsers, locations and timestamps. Use aggregation to find the most visited pages and popular devices.
+
+**Q7. Content Management System (CMS)**
+Create a CMS storing articles, authors, categories, tags and publication status. Retrieve published and unpublished articles.
+
+**Q8. Shopping Cart Application**
+Create a shopping cart using embedded documents. Implement adding, updating and removing products and calculate the total cart value.
+
+**Q9. Product Review and Rating System**
+Store product reviews and ratings. Use aggregation to calculate the average rating and total number of reviews for each product.
+
+**Q10. Inventory Monitoring System**
+Store product stock, minimum stock level, supplier and restocking date. Find products that require restocking.
+
+**Q11. Bank Wallet Transfer System**
+Implement wallet transfers using MongoDB transactions. Demonstrate atomic balance updates between two accounts.
+
+**Q12. User Notification System**
+Create a notification system that stores user notifications and their read/unread status. Retrieve unread notifications and mark notifications as read.
+
+**Q13. Course Learning Platform**
+Store courses, instructors, students, modules and learning progress. Retrieve students based on course progress and completion status.
+
+**Q14. Real-Time Order Tracking System**
+Store order stages and status history. Retrieve the current status and previous tracking history of an order.
+
+**Q15. Flexible News Database**
+Create a news database containing articles with varying fields. Store and search articles even when documents have different structures.
+
+### RESULT:
+
+Thus, various real-world applications were designed using MongoDB documents, CRUD operations and aggregation.
