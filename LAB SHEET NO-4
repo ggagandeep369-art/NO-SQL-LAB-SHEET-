@@ -1,0 +1,43 @@
+# LAB SHEET – 4
+
+## HBase and Cassandra
+
+### AIM:
+
+To understand and implement database operations using column-oriented NoSQL databases such as HBase and Cassandra.
+
+### PROGRAMS:
+
+**Q1.** Install and configure HBase. Create a Students table with two column families: personal and academic. Insert five student records and display them using HBase Shell.
+
+**Q2.** Create an Employee table in HBase and perform CRUD operations using create, put, get, scan and delete commands.
+
+**Q3.** Create an Event Logging System using HBase. Store event_id, timestamp, user, event type and status. Design suitable column families and demonstrate record retrieval.
+
+**Q4.** Create a Content Management System using HBase with content, author and metadata column families. Perform basic CRUD operations.
+
+**Q5.** Create a Blogging Platform using HBase with blog, author and comments column families. Insert at least three blog records and retrieve them.
+
+**Q6.** Demonstrate the column-family data model in HBase. Create a table with multiple column families and qualifiers and insert sample data.
+
+**Q7.** Create a WebsiteCounter table in HBase and demonstrate incrementing page-view counts.
+
+**Q8.** Create a user-session management system using HBase. Store session details and demonstrate Time-to-Live (TTL) and data expiration.
+
+**Q9.** Design an HBase application for large-scale data storage. Explain a suitable row-key strategy for horizontal scaling.
+
+**Q10.** Demonstrate HBase horizontal scaling using multiple regions and RegionServers. Explain data distribution and availability.
+
+**Q11.** Install and configure Cassandra. Create a CollegeDB keyspace with an appropriate replication factor and a Students table. Insert five records.
+
+**Q12.** Create an Employees table in Cassandra and perform CRUD operations using CQL.
+
+**Q13.** Create an Event Logging System using Cassandra. Store event details and demonstrate querying events by user and time period.
+
+**Q14.** Demonstrate Cassandra consistency levels ONE, QUORUM and ALL. Explain their effect on read and write operations.
+
+**Q15.** Design a column-oriented application using HBase or Cassandra. Perform CRUD operations and explain consistency, availability, transactions, querying and scalability.
+
+### RESULT:
+
+Thus, HBase and Cassandra database models, CRUD operations, column families, replication, consistency and scalability were studied.
